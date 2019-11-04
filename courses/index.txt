@@ -1,0 +1,1 @@
+A course is the largest semantic unit that binds episodes together forming a chain of lectures
